@@ -1,6 +1,6 @@
 # [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
-## 题目
+## 題目
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -24,7 +24,7 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 
-## 题目大意
+## 題目大意
 在陣列中找到2個數字相加等於給定值得數字,結果返回這兩個數字在陣列中的位置(index)
 
 ## 邏輯思維
