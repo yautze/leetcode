@@ -29,7 +29,7 @@ Constraints:
 > 如果s2字串內有上述的排列組合,即可回true
 
 ## 邏輯思維
-#### Tip => 固定長度(s1的長度)的Slide Window的題目
+#### Tip : 固定長度(s1的長度)的Slide Window的題目
 Step.1 透過兩個長度為26的int array來儲存s1,s2字串的排列組合 </br></br>
 > Ex: s1 = "ab"</br>
 => arr1[0] = 1, arr[1] = 1 </br>
