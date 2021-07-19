@@ -50,4 +50,4 @@ Constraints:
 時間複雜度 < O(log (m+n))
 
 ## 邏輯思維
-![](https://scontent.xx.fbcdn.net/v/t1.15752-0/s206x206/210645383_836091150669381_1524726745091486022_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=aee45a&_nc_ohc=xkAd5xFjrVkAX9efiZc&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=38509d45bfd3ba46cf962e0b624f0ace&oe=60FA47A9)
+![](https://scontent.frmq2-2.fna.fbcdn.net/v/t1.15752-9/212545706_525816525332458_55708826802177239_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=ae9488&_nc_ohc=grHvGsPWMBEAX9mjZck&_nc_ht=scontent.frmq2-2.fna&oh=810ec7b7b13bfabac36f08e52d0de865&oe=60FAEE4D)
