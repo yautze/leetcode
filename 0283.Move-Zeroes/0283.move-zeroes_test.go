@@ -7,8 +7,8 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-// TestTwoSum -
-func TestTwoSum(t *testing.T) {
+// TestMoveZeroes -
+func TestMoveZeroes(t *testing.T) {
 	tests := []struct {
 		name string
 		args []int
