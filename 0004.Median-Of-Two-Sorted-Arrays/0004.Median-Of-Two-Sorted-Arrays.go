@@ -6,7 +6,7 @@ func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
 	arr := []int{}
 	isJump := false
 
-	// 如果有某一個arr len = 0, 就跳過兩個陣列相加的還結
+	// 如果有某一個arr len = 0, 就跳過兩個陣列相加的環節
 	if l1 == 0 {
 		arr = append(arr, nums2...)
 		isJump = true
