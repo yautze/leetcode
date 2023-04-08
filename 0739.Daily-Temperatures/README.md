@@ -1,6 +1,6 @@
 # [0739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 
-## 題目
+## 題目所屬
 - Degree of difficulty: Medium
 - Category: Stack
 

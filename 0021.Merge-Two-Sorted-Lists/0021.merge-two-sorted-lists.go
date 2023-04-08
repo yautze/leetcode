@@ -45,10 +45,10 @@ func mergeTwoLists2(l1 *ListNode, l2 *ListNode) *ListNode {
 
 	if l1.Val < l2.Val {
 		// 小的那個往前一個位置,跑下一次比較
-		l1.Next = mergeTwoLists(l1.Next, l2)
+		l1.Next = mergeTwoLists2(l1.Next, l2)
 		return l1
 	}
 
-	l2.Next = mergeTwoLists(l1, l2.Next)
+	l2.Next = mergeTwoLists2(l1, l2.Next)
 	return l2
 }

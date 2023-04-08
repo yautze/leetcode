@@ -1,6 +1,6 @@
 # [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 
-## 題目
+## 題目所屬
 - Degree of difficulty: Easy
 - Category: Arrays & Hash
 

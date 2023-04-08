@@ -1,6 +1,6 @@
 # [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
-## 題目
+## 題目所屬
 - Degree of difficulty: Easy
 - Category: Arrays & Hash
 

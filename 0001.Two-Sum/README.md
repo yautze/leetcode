@@ -1,6 +1,6 @@
 # [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
-## 題目
+## 題目所屬
 - Degree of difficulty: Easy
 - Category: Arrays & Hash
 

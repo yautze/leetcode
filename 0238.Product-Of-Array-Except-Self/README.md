@@ -1,6 +1,6 @@
 # [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
-## 題目
+## 題目所屬
 - Degree of difficulty: Medium
 - Category: Arrays & Hash
 

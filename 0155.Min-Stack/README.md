@@ -1,6 +1,6 @@
 # [155. Min Stack](https://leetcode.com/problems/min-stack/)
 
-## 題目
+## 題目所屬
 - Degree of difficulty: Medium
 - Category: Stack
 

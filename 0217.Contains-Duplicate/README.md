@@ -1,6 +1,6 @@
 # [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
-## 題目
+## 題目所屬
 - Degree of difficulty: Easy
 - Category: Arrays & Hash
 
